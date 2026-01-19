@@ -1,0 +1,10 @@
+import React from 'react';
+
+export default function Profile() {
+  return (
+    <div>
+      <h1 className="text-2xl mb-4">Profile (stub)</h1>
+      <p>Show user info and their posts here.</p>
+    </div>
+  );
+}
